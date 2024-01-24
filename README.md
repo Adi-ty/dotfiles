@@ -2,6 +2,9 @@
 
 This repository contains my personal dotfiles, including configurations for Neovim, Tmux, and Oh My Zsh.
 
+<img width="1000" alt="image" src="https://github.com/Adi-ty/dotfiles/assets/92062352/0564cb3e-c5f3-40fc-b1fc-fb5c5fbf0eec">
+
+
 ## Neovim Config
 
 The Neovim configuration files can be found in the `.config/nvim` directory. Lazyvim is used as the base configuration, and my own customizations are added on top of it.
